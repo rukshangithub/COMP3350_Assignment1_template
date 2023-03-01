@@ -1,0 +1,1 @@
+-- Write tests for your stored procedures. Try to cover each possible case.
